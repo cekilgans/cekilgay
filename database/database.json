@@ -219,6 +219,11 @@
       "afkTime": -1,
       "afkReason": "",
       "limit": 15
+    },
+    "62895413772440@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
     }
   },
   "chats": {
@@ -345,6 +350,10 @@
     "6288221286112@s.whatsapp.net": {
       "mute": false,
       "antilink": false
+    },
+    "62895413772440@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
     }
   },
   "database": {},
@@ -374,6 +383,10 @@
       "autobio": false
     },
     "62882021461276@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false
+    },
+    "62895413772440@s.whatsapp.net": {
       "status": 0,
       "autobio": false
     }
